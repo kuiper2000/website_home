@@ -21,7 +21,13 @@ if (isAwesome){
 ```
 ### 3. math test
 
-Hi $$x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}.$$
+$$
+M = \left( \begin{array}{ccc}
+x_{11} & x_{12} & \ldots \\
+x_{21} & x_{22} & \ldots \\
+\vdots & \vdots & \ldots \\
+\end{array} \right)
+$$
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
