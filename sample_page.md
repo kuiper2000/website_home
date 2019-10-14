@@ -21,11 +21,7 @@ if (isAwesome){
 ```
 ### 3. math test
 ```python
-\begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{aligned}
+print "Hello World"
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
