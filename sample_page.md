@@ -19,6 +19,16 @@ if (isAwesome){
   return true
 }
 ```
+### 3. math test
+
+Hi `$z = x + y$`.
+
+`$$a^2 + b^2 = c^2$$`
+
+`$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$`
+
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
