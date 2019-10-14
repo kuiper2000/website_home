@@ -21,13 +21,12 @@ if (isAwesome){
 ```
 ### 3. math test
 
-$$
-M = \left( \begin{array}{ccc}
-x_{11} & x_{12} & \ldots \\
-x_{21} & x_{22} & \ldots \\
-\vdots & \vdots & \ldots \\
-\end{array} \right)
-$$
+```python
+if (isAwesome){
+  return true
+}
+```
+
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
