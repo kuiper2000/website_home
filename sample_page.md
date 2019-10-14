@@ -21,9 +21,8 @@ if (isAwesome){
 ```
 ### 3. math test
 
-```python
-if (isAwesome){
-  return true
+```latex
+a_{1,2}
 }
 ```
 
