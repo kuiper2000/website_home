@@ -21,7 +21,7 @@ if (isAwesome){
 ```
 ### 3. math test
 
-Hi \math{a=a+b}
+Hi $$x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}.$$
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
