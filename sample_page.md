@@ -20,12 +20,13 @@ if (isAwesome){
 }
 ```
 ### 3. math test
-
-```latex
-a_{1,2}
-}
+```python
+\begin{aligned}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{aligned}
 ```
-
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
