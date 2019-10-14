@@ -22,6 +22,7 @@ if (isAwesome){
 ### 3. math test
 ```python
 print "Hello World"
+$$\dot{x} & = \sigma(y-x)$$
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
